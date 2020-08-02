@@ -1,0 +1,32 @@
+<html>
+<head>     
+<h1><title>CS GO</title><h1>
+<meta name="author" content="Sachin Joshi" /> 
+<meta name="description" content="Short outline of the page topics." />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="keywords" content="Gamer, Online Games,Counter Strike, Search, etc"/>
+<link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+<body>
+<h1><div id="header">Counter Strike-Gobal Offensive</div><h1>
+<div id="nav">
+<ul>
+<h6><li><a href="file:///C:/Users/KetanJoshi/Desktop/sachin/scan/trial.html">Home</a></li><h6>
+<h6><li><a href="https://www.youtube.com/watch?v=edYCtaNueQY">Videos</a></li><h6>
+<h6><li><a href="maps.html">Maps</a></li><h6>
+<h6><li><a href="inventory.html">Inventory</a></li><h6>
+<h6><li><a href="about.html">About</li></a><h6>
+<h6><li><a href="contact.html">Contact</a></li><h6>
+</ul>
+<div/>
+<div id="content">
+<p>Counter-Strike: Global Offensive (CS:GO) is a first-person shooter video game which is a part of the Counter-Strike series.It was announced to 
+the public on August 12, 2011, and is developed by Valve Corporation and their partner, Hidden Path Entertainment. The game was later release on
+August 21, 2012 for the Playstation 3, Xbox 360, Microsoft Windows, and OS X and later Linux as a downloadable title.
+</p>
+</div>
+<div id="footer">
+<div id="nav">
+</body>
+
+</html>

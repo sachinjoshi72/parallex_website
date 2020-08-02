@@ -1,0 +1,94 @@
+#header{
+     background:black;
+     width: 100%;
+     height: 80px;
+    width:100%;
+   height:80px;
+   line-height: 80px;
+   display: inline-block;
+    
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+li a {
+  display: block;
+  color: white;
+  display: inline-block;
+  color: whitesmoke;
+  text-align: center;
+  padding: 30p;
+  text-decoration: none;
+   display: block
+ 
+    }
+
+li a:hover:not(.active) {
+  background-color: #ddd;
+}
+
+li a.active {
+  color: white;
+  background-color: #4CAF50;
+}
+
+
+    
+
+.parallax {
+    /* The image used */
+    background-image: url("csgo2.jpg");
+
+    /* Set a specific height */
+    min-height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+
+.para{ 
+color: whitesmoke;
+background-image: url("light.jpg");
+background-size: cover;
+}
+
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    

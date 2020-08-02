@@ -1,0 +1,36 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="form.css">
+        <script>
+        function received(){
+            alert("Your FEEDBACK has been received");
+        }
+        </script>
+    </head>
+<body>
+<div class="container">  
+  <form id="contact" action="insert.php" method="post" onsubmit="received()">
+    <h3>CSGO Contact Form</h3>
+    <h4>Contact us for custom quote</h4>
+    <fieldset>
+      <input name="name" placeholder="Your name" type="text" tabindex="1" required autofocus>
+    </fieldset>
+    <fieldset>
+      <input name="email"placeholder="Your Email Address" type="email" tabindex="2" required>
+    </fieldset>
+    <fieldset>
+      <input name="number" placeholder="Your Phone Number " type="tel" tabindex="3" required>
+    </fieldset>
+    <fieldset>
+      <input name="website" placeholder="Your Web Site " type="url" tabindex="4" required>
+    </fieldset>
+    <fieldset>
+      <textarea name="message" placeholder="Type your message here...." tabindex="5" required></textarea>
+    </fieldset>
+    <fieldset>
+      <button name="submit" type="submit" id="contact-submit" data-submit="...Sending">Submit</button>
+    </fieldset>
+  </form>
+</div>
+</body>
+</html>
